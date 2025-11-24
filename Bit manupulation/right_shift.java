@@ -1,6 +1,8 @@
 /*
-right shitf: 
+right shift operator (>>):
 rules: 
+example: 
+
 
 
 
