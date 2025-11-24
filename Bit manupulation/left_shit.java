@@ -22,9 +22,10 @@ Example:
     10000=16
 
 */
-
-
-
+import java.util.*; 
 public class left_shit {
+    public static void main(String[] args) {
+         System.out.println(5 << 3);
     
+    }   
 }
